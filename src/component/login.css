@@ -1,0 +1,33 @@
+.loginForm {
+  width: 450px;
+  border: 3px solid #d6d7da;
+  padding: 0px 15px 15px 15px;
+  border-radius: 5px;
+  font-family: arial;
+  line-height: 16px;
+  color: #333333;
+  font-size: 14px;
+  background: #f7f4f4;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.login {
+  /* background-color: #78bb9d; */
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  /* background-color: #72cea7; */
+  border-radius: 0.3rem;
+}
+.errorMsg {
+  color: #cc0000;
+  margin-bottom: 12px;
+}
+
+.sucessMsg {
+  color: #6b8e23;
+  margin-bottom: 10px;
+}
+.Row {
+  background-color: #1a2c3f;
+}

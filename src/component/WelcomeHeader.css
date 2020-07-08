@@ -1,0 +1,18 @@
+.jumbo {
+  background: url("https://i.pinimg.com/originals/75/7d/94/757d940f84d92db4312562865eddc55c.jpg")
+    no-repeat fixed bottom;
+  background-size: cover;
+  color: black;
+  text-shadow: 1cm;
+  height: 200px;
+  position: relative;
+  z-index: -2;
+}
+
+.welcomeDiv {
+  font-size: 30px;
+  position: absolute;
+  background-color: black;
+  color: white;
+  /* opacity: 50%; */
+}
